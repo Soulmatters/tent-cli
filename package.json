@@ -1,0 +1,22 @@
+{
+  "name": "tent-cli",
+  "author": {
+    "name": "Paul Cozma"
+  },
+  "version": "0.5.7",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "figlet": "^1.2.1",
+    "inquirer": "^6.2.1",
+    "ora": "^3.0.0",
+    "shelljs": "^0.8.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "MIT",
+  "bin": {
+    "tent": "./index.js"
+  }
+}
