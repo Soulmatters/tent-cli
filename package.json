@@ -10,7 +10,7 @@
     "figlet": "^1.2.1",
     "inquirer": "^6.2.1",
     "ora": "^3.0.0",
-    "shelljs": "^0.8.3"
+    "shelljs": "^0.8.5"
   },
   "scripts": {
     "start": "node index.js"
